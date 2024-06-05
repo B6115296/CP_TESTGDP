@@ -1,0 +1,22 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build artifacts
+build/
+dist/
+.idea/
+
+# Ignore environment-specific files
+.env
+.env.local
+
+# Ignore compiled code
+*.class
+*.jar
+
+# Ignore log files
+*.log
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,310 @@
+[
+    {
+    "Province_ENG": "Bangkok",
+    "GDP2020": -7.696753381
+    },
+    {
+    "Province_ENG": "ChonBuri",
+    "GDP2020": -15.82708764
+    },
+    {
+    "Province_ENG": "Rayong",
+    "GDP2020": -16.32269527
+    },
+    {
+    "Province_ENG": "SamutPrakan",
+    "GDP2020": -16.94114418
+    },
+    {
+    "Province_ENG": "PathumThani",
+    "GDP2020": -1.319342679
+    },
+    {
+    "Province_ENG": "SamutSakhon",
+    "GDP2020": -0.494905528
+    },
+    {
+    "Province_ENG": "PhraNakhonSiAyutthaya",
+    "GDP2020": -0.365346165
+    },
+    {
+    "Province_ENG": "NakhonPathom",
+    "GDP2020": -1.405133089
+    },
+    {
+    "Province_ENG": "Chachoengsao",
+    "GDP2020": -10.28531584
+    },
+    {
+    "Province_ENG": "Nonthaburi",
+    "GDP2020": -0.124199866
+    },
+    {
+    "Province_ENG": "PrachinBuri",
+    "GDP2020": -6.023370748
+    },
+    {
+    "Province_ENG": "NakhonRatchasima",
+    "GDP2020": -3.089514336
+    },
+    {
+    "Province_ENG": "Saraburi",
+    "GDP2020": -4.141190093
+    },
+    {
+    "Province_ENG": "ChiangMai",
+    "GDP2020": -8.232764278
+    },
+    {
+    "Province_ENG": "Songkhla",
+    "GDP2020": -4.898055507
+    },
+    {
+    "Province_ENG": "KhonKaen",
+    "GDP2020": -2.591370819
+    },
+    {
+    "Province_ENG": "Ratchaburi",
+    "GDP2020": -10.45537304
+    },
+    {
+    "Province_ENG": "NakhonSiThammarat",
+    "GDP2020": -1.230032037
+    },
+    {
+    "Province_ENG": "SuratThani",
+    "GDP2020": -15.21464286
+    },
+    {
+    "Province_ENG": "Chanthaburi",
+    "GDP2020": 6.99069457
+    },
+    {
+    "Province_ENG": "Phuket",
+    "GDP2020": -46.54167974
+    },
+    {
+    "Province_ENG": "UbonRatchathani",
+    "GDP2020": 2.373738976
+    },
+    {
+    "Province_ENG": "Chumphon",
+    "GDP2020": 7.919837471
+    },
+    {
+    "Province_ENG": "NakhonSawan",
+    "GDP2020": -5.306538641
+    },
+    {
+    "Province_ENG": "UdonThani",
+    "GDP2020": -5.069937745
+    },
+    {
+    "Province_ENG": "LopBuri",
+    "GDP2020": -4.198549051
+    },
+    {
+    "Province_ENG": "KamphaengPhet",
+    "GDP2020": -11.90896245
+    },
+    {
+    "Province_ENG": "Kanchanaburi",
+    "GDP2020": -5.032038853
+    },
+    {
+    "Province_ENG": "ChiangRai",
+    "GDP2020": -5.635575444
+    },
+    {
+    "Province_ENG": "Phitsanulok",
+    "GDP2020": -5.110622077
+    },
+    {
+    "Province_ENG": "BuriRam",
+    "GDP2020": 2.984690452
+    },
+    {
+    "Province_ENG": "PrachuapKhiriKhan",
+    "GDP2020": -4.237270407
+    },
+    {
+    "Province_ENG": "SuphanBuri",
+    "GDP2020": -1.825968848
+    },
+    {
+    "Province_ENG": "Surin",
+    "GDP2020": 3.457725876
+    },
+    {
+    "Province_ENG": "Lamphun",
+    "GDP2020": 2.105458367
+    },
+    {
+    "Province_ENG": "RoiEt",
+    "GDP2020": 3.195791845
+    },
+    {
+    "Province_ENG": "Phetchabun",
+    "GDP2020": -6.281023291
+    },
+    {
+    "Province_ENG": "SiSaKet",
+    "GDP2020": 6.064438091
+    },
+    {
+    "Province_ENG": "Phetchaburi",
+    "GDP2020": -3.939426313
+    },
+    {
+    "Province_ENG": "Lampang",
+    "GDP2020": -0.870941092
+    },
+    {
+    "Province_ENG": "Krabi",
+    "GDP2020": -19.34457562
+    },
+    {
+    "Province_ENG": "Trang",
+    "GDP2020": 3.316631246
+    },
+    {
+    "Province_ENG": "Chaiyaphum",
+    "GDP2020": -1.665195288
+    },
+    {
+    "Province_ENG": "Tak",
+    "GDP2020": -7.321710642
+    },
+    {
+    "Province_ENG": "SakonNakhon",
+    "GDP2020": 4.293922979
+    },
+    {
+    "Province_ENG": "MahaSarakham",
+    "GDP2020": 5.990744494
+    },
+    {
+    "Province_ENG": "Kalasin",
+    "GDP2020": -0.774519337
+    },
+    {
+    "Province_ENG": "Phang-nga",
+    "GDP2020": -34.05339777
+    },
+    {
+    "Province_ENG": "Loei",
+    "GDP2020": -5.77612076
+    },
+    {
+    "Province_ENG": "Phichit",
+    "GDP2020": -1.528548771
+    },
+    {
+    "Province_ENG": "Pattani",
+    "GDP2020": -1.263242861
+    },
+    {
+    "Province_ENG": "Sukhothai",
+    "GDP2020": -4.643908526
+    },
+    {
+    "Province_ENG": "Yala",
+    "GDP2020": 5.080075771
+    },
+    {
+    "Province_ENG": "SaKaeo",
+    "GDP2020": -4.311992601
+    },
+    {
+    "Province_ENG": "NakhonPhanom",
+    "GDP2020": 1.396133443
+    },
+    {
+    "Province_ENG": "Trat",
+    "GDP2020": 3.321865531
+    },
+    {
+    "Province_ENG": "NongKhai",
+    "GDP2020": 1.948693243
+    },
+    {
+    "Province_ENG": "Uttaradit",
+    "GDP2020": -2.484606504
+    },
+    {
+    "Province_ENG": "Narathiwat",
+    "GDP2020": -6.364394606
+    },
+    {
+    "Province_ENG": "Phatthalung",
+    "GDP2020": 2.359921604
+    },
+    {
+    "Province_ENG": "ChaiNat",
+    "GDP2020": -0.759807295
+    },
+    {
+    "Province_ENG": "Phayao",
+    "GDP2020": -3.559474243
+    },
+    {
+    "Province_ENG": "Nan",
+    "GDP2020": -0.450476465
+    },
+    {
+    "Province_ENG": "Satun",
+    "GDP2020": 6.289775481
+    },
+    {
+    "Province_ENG": "AngThong",
+    "GDP2020": 0.722239898
+    },
+    {
+    "Province_ENG": "Phrae",
+    "GDP2020": -1.411653245
+    },
+    {
+    "Province_ENG": "NakhonNayok",
+    "GDP2020": 2.37555446
+    },
+    {
+    "Province_ENG": "Ranong",
+    "GDP2020": 10.1010101
+    },
+    {
+    "Province_ENG": "Yasothon",
+    "GDP2020": 3.34643615
+    },
+    {
+    "Province_ENG": "NongBuaLamPhu",
+    "GDP2020": -6.469353065
+    },
+    {
+    "Province_ENG": "SamutSongkhram",
+    "GDP2020": 3.023344814
+    },
+    {
+    "Province_ENG": "SingBuri",
+    "GDP2020": -5.985250632
+    },
+    {
+    "Province_ENG": "Mukdahan",
+    "GDP2020": -6.578562015
+    },
+    {
+    "Province_ENG": "UthaiThani",
+    "GDP2020": -11.5735402
+    },
+    {
+    "Province_ENG": "BuengKan",
+    "GDP2020": -0.590829995
+    },
+    {
+    "Province_ENG": "AmnatCharoen",
+    "GDP2020": 0.94735284
+    },
+    {
+    "Province_ENG": "MaeHongSon",
+    "GDP2020": 0.84548299
+    }
+    ]
