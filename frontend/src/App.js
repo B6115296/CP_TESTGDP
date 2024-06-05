@@ -40,7 +40,7 @@ function App() {
   }, [setGdpList]);
 
   const addGdp = async () => {
-    if (!province || gdp === 0) {
+    if (!province || gdp == 0) {
       openModal(
         "error",
         "Error!",
